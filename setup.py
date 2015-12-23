@@ -1,7 +1,7 @@
 from setuptools import setup,find_packages
 
 
-with open('akData/version.py') as fin: exec(fin)
+with open('akData/version.py') as fin: exec(fin.read())
 
 setup(
     name='akData',
