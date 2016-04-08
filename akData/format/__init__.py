@@ -1,8 +1,8 @@
-import boolean
-import number
-import datetime
+from . import boolean
+from . import number
+from . import datetime
 
-import phoneNumber
-import abn
+from . import phoneNumber
+from . import abn
 
-import django
+from . import django

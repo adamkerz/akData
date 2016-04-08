@@ -1,1 +1,1 @@
-import abn
+from . import abn

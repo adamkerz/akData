@@ -1,3 +1,3 @@
 from .version import *
 
-from Cycle import Cycle
+from .Cycle import Cycle
